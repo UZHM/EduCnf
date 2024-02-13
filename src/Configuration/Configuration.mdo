@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d4a003f0-2ee1-4a36-9155-b472ce712bee">
+  <name>EduConf</name>
+  <synonym>
+    <key>en</key>
+    <value>Edu conf</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="25cc283b-0029-4d69-95f9-02392eacb99e"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="ace7c03c-e9ff-4d2f-86d3-a804594c335e"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="62fdfaae-f90c-4a55-8601-479a295d3e57"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="8fd215c8-9b2f-42a4-af34-38028d43ec4f"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="2ecb015f-fafa-419a-b8a7-32b16cef83ef"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="eed24e38-93ee-4a1d-a925-c39030dd23ed"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="f6cfd79d-8a3f-47b3-82a6-2292a6ebe9ca"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.English</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.22</compatibilityMode>
+  <languages uuid="8fe86389-a229-47c6-9a4f-81c086764e0b">
+    <name>English</name>
+    <synonym>
+      <key>en</key>
+      <value>English</value>
+    </synonym>
+    <languageCode>en</languageCode>
+  </languages>
+</mdclass:Configuration>
