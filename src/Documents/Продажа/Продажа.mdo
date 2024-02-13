@@ -23,6 +23,7 @@
   <numberAllowedLength>Variable</numberAllowedLength>
   <checkUnique>true</checkUnique>
   <autonumbering>true</autonumbering>
+  <defaultObjectForm>Document.Продажа.Form.Продажа</defaultObjectForm>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
   <attributes uuid="44703389-87b3-40a2-a6ed-9ef416b64199">
@@ -44,6 +45,15 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <forms uuid="652cf850-5059-4692-b3a7-5b69cc1322bb">
+    <name>Продажа</name>
+    <synonym>
+      <key>en</key>
+      <value>Продажа</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
   <tabularSections uuid="02e7def6-2329-48ea-83dd-b6d4f04a15ca">
     <producedTypes>
       <objectType typeId="e5e3f2e4-37bc-432f-9f57-954a743b5618" valueTypeId="b3872d91-8f62-4ab4-936f-447ead6f7a36"/>
