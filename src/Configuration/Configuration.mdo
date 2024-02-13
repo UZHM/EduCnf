@@ -37,4 +37,6 @@
     </synonym>
     <languageCode>en</languageCode>
   </languages>
+  <catalogs>Catalog.Товары</catalogs>
+  <documents>Document.Продажа</documents>
 </mdclass:Configuration>
